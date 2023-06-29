@@ -10,3 +10,4 @@ This is a make of the popular Blackjack game. I used Java for the main logic of 
 * To play, you will need a terminal and gradle
 * Clone this repo and at the base of the repo, type in the command gradle run
 * There are a set of clickable chips, where the user can set their bet amount
+* At the bottom of the screen, there is a set of buttons(bet, hit, stand, double, go to loan) which the user may press
